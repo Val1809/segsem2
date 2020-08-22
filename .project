@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Seguimientosemana2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/exceptions/idException.java</name>
+			<type>1</type>
+			<location>C:/Users/valee/Documents/VPProjects/idException.java</location>
+		</link>
+		<link>
+			<name>src/exceptions/penultimateNumberException.java</name>
+			<type>1</type>
+			<location>C:/Users/valee/Documents/VPProjects/penultimateNumberException.java</location>
+		</link>
+		<link>
+			<name>src/model/Client.java</name>
+			<type>1</type>
+			<location>C:/Users/valee/Documents/VPProjects/Client.java</location>
+		</link>
+		<link>
+			<name>src/model/Minimart.java</name>
+			<type>1</type>
+			<location>C:/Users/valee/Documents/VPProjects/Minimart.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
